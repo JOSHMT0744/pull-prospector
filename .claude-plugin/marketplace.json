@@ -1,0 +1,11 @@
+{
+  "name": "pull-prospector",
+  "owner": { "name": "JOSHMT0744" },
+  "plugins": [
+    {
+      "name": "pull-prospector",
+      "source": "./",
+      "description": "PULL-framework prospecting: offer brief, prospect research and gating, outreach drafts, and a reply feedback loop."
+    }
+  ]
+}
