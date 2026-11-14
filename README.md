@@ -36,7 +36,7 @@ could advocate internally, adds a path-to-buyer check, and adds a forwardable in
 
 **Claude Code / Claude desktop (plugin):**
 ```
-/plugin marketplace add <github-user>/pull-prospector
+/plugin marketplace add JOSHMT0744/pull-prospector
 /plugin install pull-prospector@pull-prospector
 ```
 
