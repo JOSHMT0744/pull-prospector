@@ -1,0 +1,8 @@
+{
+  "name": "pull-prospector",
+  "version": "0.1.0",
+  "description": "Find customers who already have the project your product solves, score their PULL (Rob Snyder's framework) with cited evidence, and draft outreach that tests demand instead of pushing it.",
+  "author": { "name": "JOSHMT0744" },
+  "license": "MIT",
+  "keywords": ["sales", "prospecting", "icp", "outreach", "pull-framework", "customer-discovery"]
+}
